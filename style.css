@@ -1,0 +1,26 @@
+nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+#jump{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+}
+
+#education {
+    text-align: center;
+}
+
+*{
+        background-image: url("https://w0.peakpx.com/wallpaper/672/308/HD-wallpaper-blue-green-abstract-color-geometric-origami-random-triangles.jpg");
+        background-repeat: no-repeat, repeat;
+        background-attachment: fixed;
+        background-size: cover; 
+       }
